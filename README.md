@@ -105,6 +105,7 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 
 - UI should not be categorized by device type but by size classes.
 - Be prepared for iPad slide over, iPad split view, iOS app on mac (mac catalyst or natively).
+- [Size Class Varients](Examples/Size%20Class%20Varients.md)
 
 ## Case Study
 
