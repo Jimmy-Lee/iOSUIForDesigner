@@ -15,13 +15,9 @@ iOS UI guidelines for designer from developer's perspective.
   - layoutMarginsGuide
   - readableContentGuide
 - Resource Variants
-- SF Symbols
+- SF Symbol
 - Size Class
-
-## TODO
-  - SwiftUI // MAYBE?
-  - Templace image?
-  - Layout example?
+- Case Study
 
 ## Color
 
@@ -37,7 +33,7 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 
 ### Dynamic Spacing
 
-TODO: needs example images
+See [Dynamic Spacing Example](Examples/Dynamic%20Spacing%20Example.md)
 
 ### Dynamic Type
 
@@ -60,9 +56,10 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 
 HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 
-- Safe area ([safeAreaLayoutGuide](https://developer.apple.com/documentation/uikit/uiview/2891102-safearealayoutguide))
-- Margin ([layoutMarginsGuide](https://developer.apple.com/documentation/uikit/uiview/1622651-layoutmarginsguide))
-- Readable Content ([readableContentGuide](https://developer.apple.com/documentation/uikit/uiview/1622644-readablecontentguide))
+- Safe Area Guide
+- Layout Margins Guide
+	- See [Layout Margins Guide Example.md](Examples/Layout%20Margins%20Guide%20Example.md)
+- Readable Content Guide
 	- See [Readable Content Guide Example.md](Examples/Reabable%20Content%20Guide%20Example.md)
 
 ## Resource Variants
@@ -92,7 +89,11 @@ Here is a list of resources and supported types of varients:
   - Direction
   - Localization
 
-## SF Symbols
+Example: An image with light/dark mode, compact/regular width, localization support for tw, en, default varients, which total varient count is 12.
+
+![image varient](Images/CaseStudy/Image%20Varients.png)
+
+## SF Symbol
 
 HIG: https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/
 
@@ -106,3 +107,11 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 
 - UI should not be categorized by device type but by size classes.
 - Be prepared for iPad slide over, iPad split view, iOS app on mac (mac catalyst or natively).
+
+## Case Study
+
+- [Needed Measurement for One Cell](Examples/Needed%20Measurement%20for%20One%20Cell.md)
+
+## Future Direction
+
+- SwiftUI?

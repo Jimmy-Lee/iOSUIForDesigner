@@ -1,6 +1,6 @@
 # Reabable Content Guide Example
 
-Same code running in all examples.
+You can still scroll at black space, and invoke context menu with force touch, but cell content is constrainted inside readable area.
 
 Devices:
 
