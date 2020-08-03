@@ -89,9 +89,7 @@ Here is a list of resources and supported types of varients:
   - Direction
   - Localization
 
-Example: An image with light/dark mode, compact/regular width, localization support for tw, en, default varients, which total varient count is 12.
-
-![image varient](Images/CaseStudy/Image%20Varients.png)
+[Example](Images/CaseStudy/Image%20Varients.png): An image with light/dark mode, compact/regular width, localization support for tw, en, default varients, which total varient count is 12.
 
 ## SF Symbol
 
