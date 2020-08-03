@@ -63,7 +63,7 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 - Safe area ([safeAreaLayoutGuide](https://developer.apple.com/documentation/uikit/uiview/2891102-safearealayoutguide))
 - Margin ([layoutMarginsGuide](https://developer.apple.com/documentation/uikit/uiview/1622651-layoutmarginsguide))
 - Readable Content ([readableContentGuide](https://developer.apple.com/documentation/uikit/uiview/1622644-readablecontentguide))
-	- See [Readable Content Guide Example.md](/Examples/Reabable Content Guide Example.md)
+	- See [Readable Content Guide Example.md](Examples/Reabable\ Content\ Guide\ Example.md)
 
 ## Resource Variants
 
