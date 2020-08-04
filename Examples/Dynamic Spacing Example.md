@@ -4,17 +4,17 @@ While font can be dynamic sized, spacing can also be dynamic.
 
 ## Under default dynamic type size.
 
-![default](../Images/DynamicSpacingExample/default.png)
+<img src="../Images/DynamicSpacingExample/default.png" width="310.5" height="672">
 
 ## Under AX5 dynamic type size.
 
 Constant spacing.
 
-![default](../Images/DynamicSpacingExample/constant%20AX5.png)
+<img src="../Images/DynamicSpacingExample/constant%20AX5.png" width="310.5" height="672">
 
 Dynamic spacing.
 
-![default](../Images/DynamicSpacingExample/dynamic%20AX5.png)
+<img src="../Images/DynamicSpacingExample/dynamic%20AX5.png" width="310.5" height="672">
 
 ## How to Specify Dynamic Spacing
 

@@ -34,16 +34,16 @@ class DemoCell: UICollectionViewCell {
 
 iPhone portrait
 
-![iPhone portrait](../Images/LayoutMarginGuide/iPhone%20portrait.png)
+<img src="../Images/LayoutMarginGuide/iPhone%20portrait.png" width="310.5" height="672">
 
 iPhone landscape
 
-![iPhone landscape](../Images/LayoutMarginGuide/iPhone%20landscape.png)
+<img src="../Images/LayoutMarginGuide/iPhone%20landscape.png" width="672" height="310.5">
 
 iPad portrait
 
-![iPad portrait](../Images/LayoutMarginGuide/iPad%20portrait.png)
+<img src="../Images/LayoutMarginGuide/iPad%20portrait.png" width="512" height="683">
 
 iPad landscape
 
-![iPad landscape](../Images/LayoutMarginGuide/iPad%20landscape.png)
+<img src="../Images/LayoutMarginGuide/iPad%20landscape.png" width="683" height="512">

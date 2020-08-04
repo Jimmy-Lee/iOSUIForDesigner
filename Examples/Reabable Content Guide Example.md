@@ -14,45 +14,45 @@ For devs:
 
 iPhone portrait
 
-![iPhone portrait](../Images/ReadableContentGuide/iPhone%20portrait.png)
+<img src="../Images/ReadableContentGuide/iPhone%20portrait.png" width="310.5" height="672">
 
 iPhone portrait context menu
 
-![iPhone portrait context menu](../Images/ReadableContentGuide/iPhone%20portrait%20context%20menu.png)
+<img src="../Images/ReadableContentGuide/iPhone%20portrait%20context%20menu.png" width="310.5" height="672">
 
 iPhone landscape
 
-![iPhone landscape](../Images/ReadableContentGuide/iPhone%20landscape.png)
+<img src="../Images/ReadableContentGuide/iPhone%20landscape.png" width="672" height="310.5">
+
 
 iPhone landscape context menu
 
-![iPhone landscape context menu](../Images/ReadableContentGuide/iPhone%20landscape%20context%20menu.png)
-
+<img src="../Images/ReadableContentGuide/iPhone%20landscape%20context%20menu.png" width="672" height="310.5">
 
 iPad portrait
 
-![iPad portrait](../Images/ReadableContentGuide/iPad%20portrait.png)
+<img src="../Images/ReadableContentGuide/iPad%20portrait.png" width="512" height="683">
 
 iPad portrait context menu
 
-![iPad portrait context menu](../Images/ReadableContentGuide/iPad%20portrait%20context%20menu.png)
+<img src="../Images/ReadableContentGuide/iPad%20portrait%20context%20menu.png" width="512" height="683">
 
 iPad landscape
 
-![iPad landscape](../Images/ReadableContentGuide/iPad%20landscape.png)
+<img src="../Images/ReadableContentGuide/iPad%20landscape.png" width="683" height="512">
 
 iPad landscape context menu
 
-![iPad landscape context menu](../Images/ReadableContentGuide/iPad%20landscape%20context%20menu.png)
+<img src="../Images/ReadableContentGuide/iPad%20landscape%20context%20menu.png" width="683" height="512">
 
 iPad split view 1/2
 
-![iPad split view 1_2](../Images/ReadableContentGuide/iPad%20split%20view%201_2.png)
+<img src="../Images/ReadableContentGuide/iPad%20split%20view%201_2.png" width="683" height="512">
 
 iPad split view 1/3
 
-![iPad split view 1_3](../Images/ReadableContentGuide/iPad%20split%20view%201_3.png)
+<img src="../Images/ReadableContentGuide/iPad%20split%20view%201_3.png" width="683" height="512">
 
 iPad slide over
 
-![iPad slide over](../Images/ReadableContentGuide/iPad%20slide%20over.png)
+<img src="../Images/ReadableContentGuide/iPad%20slide%20over.png" width="683" height="512">

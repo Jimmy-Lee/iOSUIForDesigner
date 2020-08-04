@@ -35,8 +35,8 @@ This is the final design of example view, which layouts horizontally when there 
 
 (Regular Width, Any Height)
 
-![Regular Width, Any Height](../Images/SizeClassVarients/regular%20width.png)
+<img src="../Images/SizeClassVarients/regular%20width.png" width="672" height="310.5">
 
 (Compact Width, Any Height)
 
-![Compact Width, Any Height](../Images/SizeClassVarients/compact%20width.png)
+<img src="../Images/SizeClassVarients/compact%20width.png" width="310.5" height="672">
