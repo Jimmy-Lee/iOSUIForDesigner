@@ -45,6 +45,12 @@ iPad landscape context menu
 
 <img src="../Images/ReadableContentGuide/iPad%20landscape%20context%20menu.png" width="683" height="512">
 
+iPad landscape xxxLarge
+
+Readable content guide scales with dynamic size.
+
+<img src="../Images/ReadableContentGuide/iPad%20landscape%20xxxLarge.png" width="683" height="512">
+
 iPad split view 1/2
 
 <img src="../Images/ReadableContentGuide/iPad%20split%20view%201_2.png" width="683" height="512">
