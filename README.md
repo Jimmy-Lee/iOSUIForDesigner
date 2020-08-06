@@ -58,13 +58,15 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 
 - Safe Area Guide
 - Layout Margins Guide
+	- Use this margin to automatically align navigation item and cell separator.
 	- See [Layout Margins Guide Example.md](Examples/Layout%20Margins%20Guide%20Example.md)
 - Readable Content Guide
+	- Readable content should be constrained in a particular width.
 	- See [Readable Content Guide Example.md](Examples/Reabable%20Content%20Guide%20Example.md)
 
 ## Resource Variants
 
-You can specify multiple versions for one resource under difference situation, these features requires min iOS 11+.
+You can specify multiple versions for one resource under difference situation, these features requires **min** iOS 11+.
 
 - Device: resource is different when app is running in different devices.
 - Appearance: resource is different under light/dark mode.
@@ -89,7 +91,7 @@ Here is a list of resources and supported types of varients:
   - Direction
   - Localization
 
-[Example](Images/CaseStudy/Image%20Varients.png): An image with light/dark mode, compact/regular width, localization support for tw, en, default varients, which total varient count is 12.
+[Example](Images/CaseStudy/Image%20Varients.png): An image with light/dark mode, compact/regular width, localization support for (tw, en, others) varients, which total varient count is 12.
 
 ## SF Symbol
 

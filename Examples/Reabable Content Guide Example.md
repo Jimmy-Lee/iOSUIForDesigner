@@ -22,6 +22,8 @@ iPhone portrait context menu
 
 iPhone landscape
 
+Notice readable content guide is smaller than layout margins guide.
+
 <img src="../Images/ReadableContentGuide/iPhone%20landscape.png" width="672" height="310.5">
 
 
