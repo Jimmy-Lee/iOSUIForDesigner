@@ -28,3 +28,4 @@ constraint.isActive = true
 
 - Image is a SF symbol, we specify name and font size, it would scale with text. Here size of image is not needed, image has intrinsic size.
 - Time label color is provided by system, which has a dark mode varient.
+- More about semantic color, please refer to Color section or [Specify a Color.md](Specify%20a%20Color.md)

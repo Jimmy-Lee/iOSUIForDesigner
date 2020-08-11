@@ -28,6 +28,7 @@ HIG: https://developer.apple.com/design/human-interface-guidelines/ios/visual-de
 - Use sRGB color space for iOS devices, P3 color space for mac.
 - iOS 13+, app support system light/dark mode.
 - iOS 14+, app can specify an accent color.
+- [Specify a color](Examples/Specify%20a%20Color.md).
 
 ## Dynamic Text and Spacing
 
